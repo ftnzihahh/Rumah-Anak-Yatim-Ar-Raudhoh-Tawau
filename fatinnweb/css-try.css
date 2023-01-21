@@ -1,0 +1,53 @@
+/* CSS Try */
+
+/* Types of selector */
+
+/* 1.Name of element as selector */
+
+h1 {color:blue;}
+h2 {color:brown;}
+h3 {color:pink;}
+
+/* 2. CONTEXT of element as selector */
+
+h2 em {color:orange}
+
+h3 em {color:green}
+
+/* 3.1 ID NAME as selector */
+
+#id-para01 {color:purple;}
+#id-para02 {color:yellow;}
+
+/* 3.2 CLASS NAME as selector */
+
+.class-para {color:cadetblue;}
+
+/* 3.3 Selecting element using DIVISION (Generic Container) */
+
+#id-div {color:red;}
+
+/* 3.4 Selecting of element using INLINE SPAN */
+
+#id-span01 {color:red;}
+#id-span02 {color:purple;}
+#id-span03 {color:darkgreen;}
+
+/* 4. Selecting links based on their STATE (pseudo-class) */
+
+a:link {color:orange;
+	text-decoration:none;}
+
+a:visited {color:pink;
+	text-decoration:none;}
+
+a:hover {color:green;
+	text-decoration:none;
+	font-size:30px;
+	font-weight:bold;}
+
+[size] {color:red;}
+
+
+
+

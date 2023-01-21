@@ -1,0 +1,127 @@
+
+/* CSS Web */
+
+/* Types of selector */
+
+
+/* BACKGROUND SECTION */
+.page {background-color:none;
+	width:90%;
+	margin:auto;
+	padding:15px;}
+
+
+/* HEADER SECTION */
+.main-header {background-color:none;}
+
+.social-sites li {display:inline;
+	position:absolute;
+	left:400px;
+	top:-40px;}
+
+
+/* MAIN & SIDEBAR SECTION */
+.container {background-color:#e6bf83;
+	padding:10px;
+	spacing;20px;
+	width:100%;
+	align:center;}
+
+
+
+/* MAIN SECTION */
+main {background-color:#e2a76f;
+	width:70%;
+	float:left;}
+
+
+
+/* SIDEBAR SECTION */
+.sidebar {background-color:#c19a6b;
+	width:20%;
+	height:50%;
+	float:right}
+
+.about {color:white;}
+
+
+/* FOOTER SECTION */
+.main-footer {color:grey;
+	clear:both;}
+
+
+/* 3.2 CLASS NAME as selector */
+
+.class-para  {color:brown;
+	text-decoration:font-family:serif;georgia;
+	font-size:15px;
+	font-weight:bold;
+	align:center}
+
+.class-para01  {color:#36312E;
+	text-decoration:font-family:monospace;monaco;
+	font-size:15px;
+	font-weight:bold;
+	align:center} 
+
+.class-paraa  {color:brown;
+	text-decoration:font-family:fantasy;copperplate;
+	font-size:30px;
+	font-weight:bold;
+	align:center;} 
+
+.class-para02  {color:#63503a;
+	text-decoration:font-family:monospace;monaco;
+	font-size:20px;
+	font-weight:none;
+	align:left} 
+
+.class-about  {color:maroon;
+	text-decoration:font-family:fantasy;copperplate;
+	font-size:30px;
+	font-weight:bold;
+	align:center;} 
+
+.class-center1 {color:brown;
+	text-decoration;font-family:serif;times-new-roman;
+	font-size:15px;
+	font-weight:none;
+	align:center}
+
+/**/
+
+a:link {color:black;
+	text-decoration:font-family:fantasy;copperplate;
+	align:center}
+
+a:visited {color:bank;
+	text-decoration:font-family:fantasy;copperplate;
+	align:center}
+
+a:hover {color:green;
+	text-decoration:font-family:fantasy;copperplate;
+	font-size:20px;
+	font-weight:none;
+	align:center}
+
+/**/
+.class-para03  {color:green;
+	text-decoration:font-family:monospace;monaco;
+	font-size:15px;
+	font-weight:none;
+	align:center} 
+
+
+/**/
+.class-para04  {color:darkblue;
+	text-decoration:font-family:monospace;monaco;
+	font-size:20px;
+	font-weight:none;
+	align:center} 
+
+/**/
+.class-para05  {color:darkblue;
+	text-decoration:font-family:monospace;monaco;
+	font-size:20px;
+	font-weight:none;
+	align:center;} 
